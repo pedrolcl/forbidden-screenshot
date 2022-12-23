@@ -15,7 +15,7 @@ Anyway, Raymond Chen has written about this issue that "Ultimately, you can’t 
 Confidential at the top of a document and whipping out a digital camera and taking a picture of the screen. 
 But at least starting in Windows 7 you can make it a little more difficult."
 
-This is a Qt5/6 implementation.
+This is a Qt5/6 implementation. See also the [Rust version](https://github.com/pedrolcl/rust-forbidden-screenshot).
 
 ![Screenshot](screenshot.png)
 
